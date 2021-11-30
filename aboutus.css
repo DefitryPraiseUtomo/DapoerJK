@@ -1,0 +1,158 @@
+.navbar{
+    background-color: #EEC48B;
+}
+
+.cari1{
+   background-color: #FDE6C6; 
+}
+
+.categori{
+    background-color: #EEC48B;
+}
+
+.logo{
+    width: 68px;
+    height: 60px;
+}
+
+.bg-text{
+    margin-top: 110px;
+    text-align: center;
+}
+
+.bg-text h1{
+    color: #803212;
+    font-family: Franklin Gothic Medium;
+    text-align: center;
+    background-color: #FDE6C6;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.bg-text p{
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.bg-text1 h1{
+    color: #803212;
+    font-family: Franklin Gothic Medium;
+    text-align: center;
+}
+
+.bg-text5 p{
+    text-align: justify;
+}
+
+.bg-text5 b{
+    color: #803212;
+}
+
+.bg-text3{
+    text-align: justify;
+}
+
+.bg-text3 b{
+    color: #803212;
+}
+
+.offline h1{
+    color: #803212;
+    font-family: Franklin Gothic Medium;
+    text-align: center;
+    background-color: #FDE6C6;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.footer{
+    background-color: #FDE6C6;
+    margin: 0px;
+    left: -10px;
+}
+
+.footer p{
+    color: black;
+}
+
+a:hover{
+    color: brown;
+}
+
+
+
+
+@media screen and (max-width: 767px){
+    .bg-text{
+        margin-top: 110px;
+        text-align: center;
+    }
+
+    .bg-text h1{
+        color: #803212;
+        font-size: 25px;
+        font-family: Franklin Gothic Medium;
+        text-align: center;
+        background-color: #FDE6C6;
+        border-radius: 20px;
+        padding: 10px;
+    }
+
+    .bg-text p{
+        margin-top: 20px;
+        text-align: justify;
+    }
+
+    .bg-text1 h1{
+        color: #803212;
+        font-size: 25px;
+        font-family: Franklin Gothic Medium;
+        text-align: center;
+    }
+
+    .bg-text5 p{
+        text-align: justify;
+    }
+
+    .bg-text5 b{
+        color: #803212;
+    }
+
+    .bg-text3{
+        text-align: justify;
+    }
+
+    .bg-text3 b{
+        color: #803212;
+    }
+
+    .s iframe{
+        width: 300px;
+        height: 200px;
+    }
+
+    .m iframe{
+        width: 300px;
+        height: 200px;
+    }
+
+    .offline h1{
+        color: #803212;
+        font-size: 25px;
+        font-family: Franklin Gothic Medium;
+        text-align: center;
+        background-color: #FDE6C6;
+        border-radius: 20px;
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width:1023px){
+
+    
+}
+
+@media screen and (min-width:1024px){
+ 
+}
